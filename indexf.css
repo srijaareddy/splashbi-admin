@@ -1,0 +1,53 @@
+.form-dialog {
+    max-width: 500px;
+}
+
+.form-footer .btn {
+    width: 100px;
+}
+.dd{
+    width: 500px;
+ }
+ .fb-cn{
+    display: flex; 
+    justify-content: space-between;
+ }
+.hideT{
+    display: none;
+}
+
+ .form-body{
+    padding-bottom: 10px;
+ }
+
+.modal-dialog-centered {
+    display: flex;
+    align-items: center;
+    min-height: calc(100% - 1rem);
+}
+
+.modal-content {
+    margin: auto;
+}
+.disabled-row {
+    background-color: #f0f0f0;
+    color: #888;
+}
+.icon {
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+.btn-sm {
+    margin-right: 5px;
+}
+
+
